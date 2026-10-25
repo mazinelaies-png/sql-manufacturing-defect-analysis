@@ -42,5 +42,5 @@ SELECT
     ROUND(SUM(repair_cost), 2) AS total_cost
 FROM manufacturing_defects
 GROUP BY severity
-ORDER BY total_cost DESC;
+ORDER BY total_cost DESC; 
    
