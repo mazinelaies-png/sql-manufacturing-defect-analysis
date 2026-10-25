@@ -999,3 +999,4 @@ defect_id,product_id,defect_type,defect_date,defect_location,severity,inspection
 998,17,Structural,1/16/2024,Component,Minor,Automated Testing,401.12
 999,96,Cosmetic,6/21/2024,Internal,Moderate,Manual Testing,775.63
 1000,1,Cosmetic,3/23/2024,Component,Minor,Visual Inspection,963.4
+jk
