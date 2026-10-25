@@ -11,7 +11,6 @@ This project analyzes manufacturing defect data to identify the root causes of p
 ## The Diagnostic Dashboard
 The dashboard allows Quality Control Managers to instantly filter defect types by severity and inspection method, isolating the specific failures driving up repair costs.
 
-
 <img width="969" height="547" alt="Manufacturing Defect Dashboard" src="https://github.com/user-attachments/assets/a4748e87-7f27-43c8-baaf-82fd94422f25" />
 
 ## Code Structure
